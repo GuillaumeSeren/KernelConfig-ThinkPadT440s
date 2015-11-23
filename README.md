@@ -3,6 +3,7 @@ KernelConfig-ThinkPadT440s
 My Linux Kernel configuration for a Lenovo ThinkPad T440s
 
 ## My 'lspci -nnk':
+```
 00:00.0 Host bridge [0600]: Intel Corporation Haswell-ULT DRAM Controller [8086:0a04] (rev 0b)
 	Subsystem: Lenovo Haswell-ULT DRAM Controller [17aa:220c]
 	Kernel driver in use: hsw_uncore
@@ -57,8 +58,10 @@ My Linux Kernel configuration for a Lenovo ThinkPad T440s
 	Subsystem: Intel Corporation Dual Band Wireless-N 7260 [8086:c260]
 	Kernel driver in use: iwlwifi
 	Kernel modules: iwlwifi
+```
 
 ## The 'lsusb'
+```
 Bus 001 Device 003: ID 04f3:0224 Elan Microelectronics Corp. 
 Bus 001 Device 002: ID 8087:8000 Intel Corp. 
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
@@ -71,3 +74,4 @@ Bus 002 Device 003: ID 0bdb:193e Ericsson Business Mobile Networks BV
 Bus 002 Device 004: ID 17ef:1011 Lenovo 
 Bus 002 Device 002: ID 17ef:1012 Lenovo 
 Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+```
