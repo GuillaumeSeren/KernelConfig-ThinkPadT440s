@@ -62,16 +62,23 @@ My Linux Kernel configuration for a Lenovo ThinkPad T440s
 
 ## The 'lsusb'
 ```
-Bus 001 Device 003: ID 04f3:0224 Elan Microelectronics Corp. 
-Bus 001 Device 002: ID 8087:8000 Intel Corp. 
+Bus 001 Device 003: ID 04f3:0224 Elan Microelectronics Corp.
+Bus 001 Device 002: ID 8087:8000 Intel Corp.
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
-Bus 003 Device 002: ID 17ef:1012 Lenovo 
+Bus 003 Device 002: ID 17ef:1012 Lenovo
 Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
-Bus 002 Device 007: ID 5986:026a Acer, Inc 
-Bus 002 Device 006: ID 8087:07dc Intel Corp. 
+Bus 002 Device 007: ID 5986:026a Acer, Inc
+Bus 002 Device 006: ID 8087:07dc Intel Corp.
 Bus 002 Device 005: ID 138a:0017 Validity Sensors, Inc. Fingerprint Reader
-Bus 002 Device 003: ID 0bdb:193e Ericsson Business Mobile Networks BV 
-Bus 002 Device 004: ID 17ef:1011 Lenovo 
-Bus 002 Device 002: ID 17ef:1012 Lenovo 
+Bus 002 Device 003: ID 0bdb:193e Ericsson Business Mobile Networks BV
+Bus 002 Device 004: ID 17ef:1011 Lenovo
+Bus 002 Device 002: ID 17ef:1012 Lenovo
 Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 ```
+
+## Links
+Links form inspirations:
+* Gentoo Pappy's Kernel Seeds: https://forums.gentoo.org/viewtopic-t-887894.html
+* KernelHub: http://www.kernelhub.org/
+* Gentoo Kernel Seeds: https://wiki.gentoo.org/wiki/Kernel/Configuration/Kernel_Seeds
+* Funtoo Kernel Seeds: http://www.funtoo.org/Talk:Kernel_Seeds
