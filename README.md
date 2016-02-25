@@ -2,6 +2,14 @@ KernelConfig-ThinkPadT440s
 ==========================
 My Linux Kernel configuration for a Lenovo ThinkPad T440s
 
+## Minimal but I still need:
+* btrfs
+* lvm
+* ext4
+* systemd
+* docker needed options (WIP)
+* Some cups dirty driver
+
 ## My 'lspci -nnk':
 ```
 00:00.0 Host bridge [0600]: Intel Corporation Haswell-ULT DRAM Controller [8086:0a04] (rev 0b)
